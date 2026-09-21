@@ -18,11 +18,16 @@ print(a%b)### remainder (modulas)
 print(a**b)### power"""
 
 #### Comparison operators / relational operators
-a=50 
+"""a=50 
 b=20
 print(a==b)
 print(a!=b)
 print(a>b)
 print(a<b)
 print(a>=b)
-print(a<=b)
+print(a<=b)"""""
+
+
+num1=10
+num2=num1+10
+print(num2)
