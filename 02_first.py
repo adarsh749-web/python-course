@@ -29,6 +29,7 @@ print(a<=b)"""""
 
 
 num1=10
-num2=num1+10#
-num1 +=10
-print(num2)
+#num2=num1+10#
+#num1 +=10#
+num1 -=10
+print(num1 )
