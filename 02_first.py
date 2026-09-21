@@ -28,8 +28,14 @@ print(a>=b)
 print(a<=b)"""""
 
 
-num1=10
+"""num1=10
 #num2=num1+10#
 #num1 +=10#
 num1 -=10
-print(num1 )
+print(num1 )"""
+
+
+#LOGICAL OPERATORS
+a=50
+b=20
+print(not(a<b))
