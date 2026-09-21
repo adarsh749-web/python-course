@@ -42,7 +42,7 @@ print(not(a<b))# not false rhega to true return karega and not true rhega to fal
 
 
 
-val1=True
-val2=False
-print("and operator", val1 and val2)
-print("or operator", val1 or val2)
+val1=False
+val2=True
+print("and operator", val1 and val2)#jab dono true ho to true return karega otherwise false return karega
+print("or operator", val1 or val2)# jab dono false ho to false return karega otherwise true return karega
