@@ -5,6 +5,8 @@ print("My name is", name)
 print("My age is", age)"""""
 
 
+### Arithmatic operators
+
 a=5
 b=2
 
