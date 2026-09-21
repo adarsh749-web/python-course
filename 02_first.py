@@ -13,4 +13,5 @@ print(a-b)
 print(a*b)
 print(a/b)
 print(a%b)### remainder (modulas)
+print(a**b)### power
 
