@@ -38,4 +38,5 @@ print(num1 )"""
 #LOGICAL OPERATORS
 a=50
 b=20
-print(not(a<b))
+print(not(a<b))# not false rhega to true return karega and not true rhega to false return karega
+
