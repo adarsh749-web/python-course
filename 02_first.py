@@ -52,4 +52,4 @@ print("and operator", a==b and a<b)#jab dono true ho to true return karega other
 print("or operator", a==b or a<b)# jab dono false ho to false return karega otherwise true return karega
 """""
 
-input1=int(input("Enter first number: "))
+input1=int(input("Enter name : "))
