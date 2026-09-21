@@ -40,3 +40,9 @@ a=50
 b=20
 print(not(a<b))# not false rhega to true return karega and not true rhega to false return karega
 
+
+
+val1=True
+val2=False
+print("and operator", val1 and val2)
+print("or operator", val1 or val2)
