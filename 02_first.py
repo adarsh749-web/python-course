@@ -7,7 +7,7 @@ print("My age is", age)"""""
 
 ### Arithmatic operators
 
-a=5
+"""a=5
 b=2
 
 print(a+b)
@@ -15,7 +15,7 @@ print(a-b)
 print(a*b)
 print(a/b)
 print(a%b)### remainder (modulas)
-print(a**b)### power
+print(a**b)### power"""
 
 #### Comparison operators / relational operators
 a=50 
