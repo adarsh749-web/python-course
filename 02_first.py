@@ -17,3 +17,12 @@ print(a/b)
 print(a%b)### remainder (modulas)
 print(a**b)### power
 
+#### Comparison operators / relational operators
+a=50 
+b=20
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
